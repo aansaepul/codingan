@@ -1,0 +1,18 @@
+{
+  "name": "codingan",
+  "scripts": {
+  },
+  "env": {
+    "HEROKU_POSTGRESQL_BROWN_URL": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+    "heroku-postgresql"
+  ],
+  "buildpacks": [
+
+  ]
+}
